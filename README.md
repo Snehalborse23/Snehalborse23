@@ -1,18 +1,36 @@
-### Hello Guyss 👋
-  **I am Snehal Borse** 
-  Python Developer
+# 👋 Hello, I'm Snehal Borse
 
-<!--
-**Snehalborse23/Snehalborse23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Python & ML Enthusiast | Web & IoT Developer**  
+🚀 Turning ideas into real-world solutions
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🎓 Passionate about **Python, Machine Learning, and IoT**
+- 🛠 Experienced in **Web Development, Embedded Systems, and AI projects**
+- 🌟 Love building projects that create **impact**
+- 📍 From India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project – Smart Headset for the Visually Impaired
+A wearable device designed to help visually impaired individuals navigate safely using:
+- **Ultrasonic obstacle detection**
+- **Buzzer feedback**
+- **Touch sensor toggle**
+- **Bluetooth, GPS & GSM for SOS alerts**
+🔗 [View Project Repository](https://github.com/snehalborse23/smart-headset-blind-navigation)
+
+
+
+## 📌 Other Projects
+- Travel Website for Mumbai & Navi Mumbai
+- Square Finder
+- Icecream App
+
+## 📈 Activity Graph
+![Snehal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snehalborse23&theme=react-dark&hide_border=true&area=true)
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/snehal-borse-7996b7247/)  
+[Email](mailto:borsesnehal418@gmail.com)
+
+
+
+
+
